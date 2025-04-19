@@ -1,4 +1,5 @@
 # Wheather--App
+```
 import React, { useState } from 'react';
 
 const mockWeatherData = {
@@ -101,3 +102,7 @@ const styles = {
     marginTop: '10px',
   },
 };
+```
+## Output
+![Screenshot 2025-04-19 103525](https://github.com/user-attachments/assets/b6edff18-a0f5-4218-a1ee-c27017918faa)
+
